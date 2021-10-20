@@ -12,3 +12,13 @@ console.log(
     "KDV tutarı", priceTax,
     "toplam" , total
     )
+
+    let stringNumber ="11"
+    console.log(stringNumber)
+
+    let newNumber = Number(stringNumber)
+    console.log(newNumber)
+
+    console.log("Number icine bilgi gonderildi", Number("121"))
+
+    // arttirma ve azaltma islemleri:
