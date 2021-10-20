@@ -44,9 +44,9 @@ let hasPassword = false
 // 2: Line Length < 80
 
 
-let firstName ="Emre"
-let lastName = "Ay"
-console.log(firstName, lastName)
+// let firstName ="Emre"
+// let lastName = "Ay"
+// console.log(firstName, lastName)
 
-let fullName =  
-console.log(fullName)
+// let fullName =  
+// console.log(fullName)
