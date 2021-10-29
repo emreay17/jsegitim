@@ -9,3 +9,6 @@ title.addEventListener("click", domClick);
 function domClick(){
     console.log("Etkinlik Denetlendi")
     this.style.color =="red"? this.style.color= "black": this.style.color= "red"}
+
+
+    // fonksiyon yapısı değilse bunu yap böyleyse bunu yap !!!
